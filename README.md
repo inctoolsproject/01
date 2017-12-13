@@ -1,2 +1,2 @@
-# BotToby
-git clone https://github.com/T0byG74/BotToby
+# Bot
+git clone https://github.com/tankeng/01.git
